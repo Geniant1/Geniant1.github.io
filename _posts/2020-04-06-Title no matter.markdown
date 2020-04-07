@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Example content"
+title:  "Example content2"
 date:   2020-04-16 22:50:00 -0500
 comments: true
 categories: Daily
