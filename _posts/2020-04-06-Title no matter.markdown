@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Example content"
-date:   2020-04-016 22:50:00 -0500
+date:   2020-04-16 22:50:00 -0500
 comments: true
-categories: Daily Write
+categories: Daily
 ---
 
 ##헤더
