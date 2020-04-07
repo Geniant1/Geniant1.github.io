@@ -7,7 +7,7 @@ categories: Daily
 ---
 
 ## 헤더
-대충 글을 써보자면 이렇다
+대충 글을 써보자면 이렇다.
 
 # 이건 뭐지
 
@@ -20,6 +20,7 @@ categories: Daily
 1. 숫자
 2. 숫자2
 
+Push 테스트를 추가했음.
 
 
 ```function()```
