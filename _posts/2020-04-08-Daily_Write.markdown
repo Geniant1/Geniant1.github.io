@@ -6,6 +6,7 @@ comments: true
 categories: Daily
 ---
 
+![벚꽃사진](../upload/20200408_125309.jpg)
 
 예정했던 6시에는 일어나지 못하고, 6시 10분에 일어나 씼었다.
 
