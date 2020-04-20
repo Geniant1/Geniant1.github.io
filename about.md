@@ -4,8 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Taken is a two column minimalist Jekyll theme.
+## 반갑습니다!
 
-Taken is based on [chapter tumblr theme.](http://theme-chapter.tumblr.com/)
+##### Geniant입니다.
+##### 앞으로 Github에서 공부 내용을 형상관리할 예정입니다.
+##### 잘 부탁드리겠습니다.
 
-You can fork taken from [here.](https://github.com/vfalanis/taken)
+
+
+## History
+#### 2016 ~ 2020 Global Display Production Industry
++ SCM(Supply Chain Mgmt) System > Demand/Supply Module SI/SM
+
+
+## Skill
++ Oracle SQL
++ C#
++ Java
++ Javascript
++ Python
+
+### [>>Geninat Tistory Blog](https://geniant.co.kr/)
