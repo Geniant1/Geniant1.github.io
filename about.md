@@ -25,6 +25,15 @@ Geniant입니다.
 + Python
 
 
+## IDE
++ PL/SQL
++ Eclipse
++ Visual Studio
++ Visual Studio Code
++ Goorm IDE
++ Anaconda 3
+
+
 ## CONTACT
 + [Naver Blog Link](https://blog.naver.com/hellogenius)
 + [Tistory Blog Link](https://geniant.co.kr/)
