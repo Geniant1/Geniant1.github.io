@@ -12,16 +12,19 @@ Geniant입니다.
 
 
 
-## History
-### 2016 ~ 2020 Global Display Production Industry
+## CAREER
+#### 2016 ~ 2020 Global Display Production Industry
 + SCM(Supply Chain Mgmt) System > Demand/Supply Module SI/SM
 
 
-## Skill
+## SKILL
 + Oracle SQL
 + C#
 + Java
 + Javascript
 + Python
 
-### [Geninat Tistory Blog Link](https://geniant.co.kr/)
+
+## CONTACT
++ [Naver Blog Link](https://blog.naver.com/hellogenius)
++ [Tistory Blog Link](https://geniant.co.kr/)
